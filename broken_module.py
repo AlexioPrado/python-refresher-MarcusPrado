@@ -7,6 +7,6 @@ def is_even(number):
     return number % 2 == 0
 
 #Test
-print(is_even(20))
-print(is_even(67))
-print(is_even('notnumber'))
+#print(is_even(20))
+#print(is_even(67))
+#print(is_even('notnumber'))

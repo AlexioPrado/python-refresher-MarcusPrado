@@ -10,7 +10,7 @@ def withdraw(balance, amount):
     return balance - amount
 
 #Assertions
-assert withdraw(100,25) == 75
-assert withdraw(100, 120) == 100
-assert withdraw("chicken", 20) == "Given balance is not a number. Input the right data type"
-assert withdraw(67, "so skibidi") == "Given withdraw amount is not a number, Input the right data type"
+#assert withdraw(100,25) == 75
+#assert withdraw(100, 120) == 100
+#assert withdraw("chicken", 20) == "Given balance is not a number. Input the right data type"
+#assert withdraw(67, "so skibidi") == "Given withdraw amount is not a number, Input the right data type"

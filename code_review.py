@@ -13,6 +13,6 @@ def average(numbers):
     return total / len(numbers)
 
 #Test
-print(average([65, 34, 21, 67, 89]))
-print(average("Biruk Strikes Again"))
-print(average(['Biruk','Bianca','Angel','Marcus']))
+#print(average([65, 34, 21, 67, 89]))
+#print(average("Biruk Strikes Again"))
+#print(average(['Biruk','Bianca','Angel','Marcus']))
